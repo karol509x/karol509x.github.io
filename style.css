@@ -1,0 +1,24 @@
+*
+{
+    color: white;
+}
+
+body
+{
+    background-color: #213b50
+}
+ label
+{
+    color: white;
+}
+
+input
+{
+    background-color: #2b4a64;
+}
+
+input:hover
+{
+    background-color: #4e708c;
+}
+

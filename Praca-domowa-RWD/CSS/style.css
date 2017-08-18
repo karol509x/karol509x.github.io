@@ -37,6 +37,7 @@ h1
         body
         {
             background-size: 100% 200%;
+            background-image: url(../IMG/man-2.jpg);
         }
 }
 
